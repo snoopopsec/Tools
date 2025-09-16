@@ -1,4 +1,4 @@
-// dllmain.cpp
+// addadmin.dll.cpp
 #include <windows.h>
 #include <lm.h>
 
