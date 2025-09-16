@@ -1,4 +1,4 @@
-// dllmain.cpp
+// popcmd.cpp
 #include <windows.h>
 
 BOOL APIENTRY DllMain(HMODULE hModule,
